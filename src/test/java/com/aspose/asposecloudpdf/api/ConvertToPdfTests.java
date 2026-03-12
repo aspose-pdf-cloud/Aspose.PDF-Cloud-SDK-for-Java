@@ -453,6 +453,47 @@ public class ConvertToPdfTests {
 
 
     /**
+     * GetApsInStorageToPdf Test
+     * @throws ApiException
+     *          if the Api call fails
+     */
+
+    @Test
+    public void getApsInStorageToPdfTest() throws ApiException
+    {
+        String name = "5pages.aps";
+        th.uploadFile(name);
+
+
+        String srcPath = th.tempFolder + '/' + name;
+
+        File response = th.pdfApi.getApsInStorageToPdf(srcPath, null);
+        assertNotNull(response);
+    }
+
+
+    /**
+     * PutApsInStorageToPdf Test
+     * @throws ApiException
+     *          if the Api call fails
+     */
+
+    @Test
+    public void putApsInStorageToPdfTest() throws ApiException
+    {
+        String name = "5pages.aps";
+        th.uploadFile(name);
+
+
+        String srcPath = th.tempFolder + '/' + name;
+        String resultName = "fromXml.pdf";
+
+        AsposeResponse response = th.pdfApi.putApsInStorageToPdf(resultName, srcPath, th.tempFolder, null);
+        assertEquals(200, (int)response.getCode());
+    }
+
+
+    /**
      * GetPsInStorageToPdf Test
      * @throws ApiException
      *          if the Api call fails
