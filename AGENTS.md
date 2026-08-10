@@ -1,7 +1,7 @@
 # Aspose.PDF Cloud SDK for Java — Agent Analysis
 
 > **Repository:** [aspose-pdf-cloud/aspose-pdf-cloud-java](https://github.com/aspose-pdf-cloud/aspose-pdf-cloud-java)  
-> **Version:** 26.4.0 | **Group/Artifact:** `com.aspose:aspose-pdf-cloud`  
+> **Version:** 26.7.0 | **Group/Artifact:** `com.aspose:aspose-pdf-cloud`  
 > **License:** MIT | **Java Version:** 1.7+  
 > **API Version:** v3.0 | **Build:** Maven + Gradle
 
@@ -489,7 +489,7 @@ Add to your `pom.xml`:
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-cloud-pdf</artifactId>
-    <version>26.4.0</version>
+    <version>26.7.0</version>
     <scope>compile</scope>
 </dependency>
 ```
@@ -505,7 +505,7 @@ mvn install
 Add to your `build.gradle`:
 
 ```groovy
-compile "com.aspose:aspose-cloud-pdf:26.4.0"
+compile "com.aspose:aspose-cloud-pdf:26.7.0"
 ```
 
 Build locally:
@@ -519,7 +519,7 @@ Build locally:
 ```bash
 mvn package
 # JARs generated at:
-#   target/aspose-cloud-pdf-26.4.0.jar
+#   target/aspose-cloud-pdf-26.7.0.jar
 #   target/lib/*.jar
 ```
 
