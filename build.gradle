@@ -38,8 +38,8 @@ repositories {
 apply plugin: 'java'
 apply plugin: 'maven'
 
-sourceCompatibility = project.hasProperty('sourceCompatibility') ? project.property('sourceCompatibility') : JavaVersion.VERSION_1_7
-targetCompatibility = project.hasProperty('targetCompatibility') ? project.property('targetCompatibility') : JavaVersion.VERSION_1_7
+sourceCompatibility = project.hasProperty('sourceCompatibility') ? project.property('sourceCompatibility') : JavaVersion.VERSION_1_8
+targetCompatibility = project.hasProperty('targetCompatibility') ? project.property('targetCompatibility') : JavaVersion.VERSION_1_8
 
 install {
     repositories.mavenInstaller {
@@ -72,11 +72,15 @@ artifacts {
 }
 
 dependencies {
-    compile 'io.swagger:swagger-annotations:1.5.15'
+    compile 'io.swagger:swagger-annotations:1.6.14'
+    // okhttp intentionally left at 2.7.5: com.squareup.okhttp (OkHttp 2.x) has no newer release under
+    // this artifact coordinate. Moving forward requires migrating to the com.squareup.okhttp3 API,
+    // which is a breaking change touching ApiClient.java, GzipRequestInterceptor.java,
+    // ProgressRequestBody.java, ProgressResponseBody.java and every call site in PdfApi.java.
     compile 'com.squareup.okhttp:okhttp:2.7.5'
     compile 'com.squareup.okhttp:logging-interceptor:2.7.5'
-    compile 'com.google.code.gson:gson:2.8.1'
-    compile 'io.gsonfire:gson-fire:1.8.0'
-    compile 'org.threeten:threetenbp:1.3.5'
-    testCompile 'junit:junit:4.12'
+    compile 'com.google.code.gson:gson:2.11.0'
+    compile 'io.gsonfire:gson-fire:1.9.0'
+    compile 'org.threeten:threetenbp:1.6.9'
+    testCompile 'junit:junit:4.13.2'
 }

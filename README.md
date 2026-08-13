@@ -98,7 +98,7 @@ public class PdfApiExample {
         String storage = "storage_example"; // String | The document storage.
         String folder = "folder_example"; // String | The document folder.
         try {
-            SaaSposeResponse result = apiInstance.deleteField(name, fieldName, storage, folder);
+            AsposeResponse result = apiInstance.deleteField(name, fieldName, storage, folder);
             System.out.println(result);
         } catch (ApiException e) {
             System.err.println("Exception when calling PdfApi#deleteField");

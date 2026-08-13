@@ -1,8 +1,8 @@
 # Aspose.PDF Cloud SDK for Java — Agent Analysis
 
 > **Repository:** [aspose-pdf-cloud/aspose-pdf-cloud-java](https://github.com/aspose-pdf-cloud/aspose-pdf-cloud-java)  
-> **Version:** 26.4.0 | **Group/Artifact:** `com.aspose:aspose-pdf-cloud`  
-> **License:** MIT | **Java Version:** 1.7+  
+> **Version:** 26.6.0 | **Group/Artifact:** `com.aspose:aspose-pdf-cloud`  
+> **License:** MIT | **Java Version:** 1.8+  
 > **API Version:** v3.0 | **Build:** Maven + Gradle
 
 ---
@@ -86,13 +86,13 @@ src/
 
 | Dependency | Version | Purpose |
 |------------|---------|---------|
-| OkHttp | 2.7.5 | HTTP client |
+| OkHttp | 2.7.5 | HTTP client (last release under the legacy `com.squareup.okhttp` coordinate; upgrading further requires migrating to `com.squareup.okhttp3`) |
 | OkHttp Logging Interceptor | 2.7.5 | HTTP request/response logging |
-| Gson | 2.8.9 | JSON serialization/deserialization |
-| Gson Fire | 1.8.0 | Gson type adapters |
-| Swagger Annotations | 1.5.15 | API model annotations |
-| ThreeTenBP | 1.3.5 | Backport of Java 8 date/time |
-| JUnit | 4.12 | Unit testing |
+| Gson | 2.11.0 | JSON serialization/deserialization |
+| Gson Fire | 1.9.0 | Gson type adapters |
+| Swagger Annotations | 1.6.14 | API model annotations |
+| ThreeTenBP | 1.6.9 | Backport of Java 8 date/time |
+| JUnit | 4.13.2 | Unit testing |
 
 ---
 
@@ -489,7 +489,7 @@ Add to your `pom.xml`:
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-cloud-pdf</artifactId>
-    <version>26.4.0</version>
+    <version>26.6.0</version>
     <scope>compile</scope>
 </dependency>
 ```
@@ -505,7 +505,7 @@ mvn install
 Add to your `build.gradle`:
 
 ```groovy
-compile "com.aspose:aspose-cloud-pdf:26.4.0"
+compile "com.aspose:aspose-cloud-pdf:26.6.0"
 ```
 
 Build locally:
@@ -519,7 +519,7 @@ Build locally:
 ```bash
 mvn package
 # JARs generated at:
-#   target/aspose-cloud-pdf-26.4.0.jar
+#   target/aspose-cloud-pdf-26.6.0.jar
 #   target/lib/*.jar
 ```
 
