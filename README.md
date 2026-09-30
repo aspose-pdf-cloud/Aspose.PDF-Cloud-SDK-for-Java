@@ -52,7 +52,7 @@ Add this dependency to your project's POM:
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-cloud-pdf</artifactId>
-    <version>26.7.0</version>
+    <version>26.9.0</version>
     <scope>compile</scope>
 </dependency>
 ```
@@ -61,7 +61,7 @@ Add this dependency to your project's POM:
 Add this dependency to your project's build file:
 
 ```groovy
-compile "com.aspose:aspose-cloud-pdf:26.7.0"
+compile "com.aspose:aspose-cloud-pdf:26.9.0"
 ```
 
 ### Others
@@ -71,7 +71,7 @@ At first generate the JAR by executing:
 
 Then manually install the following JARs:
 
-* target/aspose-cloud-pdf-26.7.0.jar
+* target/aspose-cloud-pdf-26.9.0.jar
 * target/lib/*.jar
 
 ## Getting Started
@@ -95,7 +95,7 @@ public class PdfApiExample {
         String storage = "storage_example"; // String | The document storage.
         String folder = "folder_example"; // String | The document folder.
         try {
-            SaaSposeResponse result = apiInstance.deleteField(name, fieldName, storage, folder);
+            AsposeResponse result = apiInstance.deleteField(name, fieldName, storage, folder);
             System.out.println(result);
         } catch (ApiException e) {
             System.err.println("Exception when calling PdfApi#deleteField");
