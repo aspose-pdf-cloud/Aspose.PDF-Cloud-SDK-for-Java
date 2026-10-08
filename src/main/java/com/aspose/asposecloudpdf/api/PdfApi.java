@@ -318,6 +318,7 @@ public class PdfApi {
             {
                 apiClient.requestToken();
                 copyFileWithHttpInfo(srcPath, destPath, srcStorageName, destStorageName, versionId);
+                return;
             }
             throw ex;
         }
@@ -474,6 +475,7 @@ public class PdfApi {
             {
                 apiClient.requestToken();
                 copyFolderWithHttpInfo(srcPath, destPath, srcStorageName, destStorageName);
+                return;
             }
             throw ex;
         }
@@ -615,6 +617,7 @@ public class PdfApi {
             {
                 apiClient.requestToken();
                 createFolderWithHttpInfo(path, storageName);
+                return;
             }
             throw ex;
         }
@@ -2164,6 +2167,7 @@ public class PdfApi {
             {
                 apiClient.requestToken();
                 deleteFileWithHttpInfo(path, storageName, versionId);
+                return;
             }
             throw ex;
         }
@@ -2307,6 +2311,7 @@ public class PdfApi {
             {
                 apiClient.requestToken();
                 deleteFolderWithHttpInfo(path, storageName, recursive);
+                return;
             }
             throw ex;
         }
@@ -30709,6 +30714,7 @@ public class PdfApi {
             {
                 apiClient.requestToken();
                 moveFileWithHttpInfo(srcPath, destPath, srcStorageName, destStorageName, versionId);
+                return;
             }
             throw ex;
         }
@@ -30865,6 +30871,7 @@ public class PdfApi {
             {
                 apiClient.requestToken();
                 moveFolderWithHttpInfo(srcPath, destPath, srcStorageName, destStorageName);
+                return;
             }
             throw ex;
         }
