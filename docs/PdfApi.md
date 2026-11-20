@@ -3905,10 +3905,10 @@ Name | Type | Description  | Notes
  **format** | **String**| Allows to specify .doc or .docx file format. | [optional] [enum: Doc, DocX]
  **imageResolutionX** | **Integer**| Image resolution X. | [optional]
  **imageResolutionY** | **Integer**| Image resolution Y. | [optional]
- **maxDistanceBetweenTextLines** | **Float**| Max distance between text lines. | [optional]
+ **maxDistanceBetweenTextLines** | **Double**| Max distance between text lines. | [optional]
  **mode** | **String**| Allows to control how a PDF document is converted into a word processing document. | [optional] [enum: Textbox, Flow, EnhancedFlow]
  **recognizeBullets** | **Boolean**| Recognize bullets. | [optional]
- **relativeHorizontalProximity** | **Float**| Relative horizontal proximity. | [optional]
+ **relativeHorizontalProximity** | **Double**| Relative horizontal proximity. | [optional]
  **folder** | **String**| The document folder. | [optional]
  **storage** | **String**| The document storage. | [optional]
  **password** | **String**| The password (Base64). | [optional]
@@ -4154,7 +4154,7 @@ Converts PDF document (located on storage) to TIFF format and returns resulting 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **name** | **String**| The document name. |
- **brightness** | **Float**| Image brightness. | [optional]
+ **brightness** | **Double**| Image brightness. | [optional]
  **compression** | **String**| Tiff compression. Possible values are: LZW, CCITT4, CCITT3, RLE, None. | [optional] [enum: LZW, CCITT4, CCITT3, RLE, None]
  **colorDepth** | **String**| Image color depth. Possible valuse are: Default, Format8bpp, Format4bpp, Format1bpp. | [optional] [enum: Default, Format8bpp, Format4bpp, Format1bpp]
  **leftMargin** | **Integer**| Left image margin. | [optional]
@@ -5542,8 +5542,8 @@ Rsize PDF document.
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **name** | **String**| The document name. |
- **height** | **Float**| Page Height |
- **width** | **Float**| Page width |
+ **height** | **Double**| Page Height |
+ **width** | **Double**| Page width |
  **pages** | **String**| Comma separated list of pages and page ranges. (Example: 1,3-5,8) |
  **storage** | **String**| The document storage. | [optional]
  **folder** | **String**| The document folder. | [optional]
@@ -5876,10 +5876,10 @@ Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **name** | **String**| The document name. |
  **pageNumber** | **Integer**| The page number. |
- **llx** | **Float**| Coordinate lower left X. |
- **lly** | **Float**| Coordinate lower left Y. |
- **urx** | **Float**| Coordinate upper right X. |
- **ury** | **Float**| Coordinate upper right Y. |
+ **llx** | **Double**| Coordinate lower left X. |
+ **lly** | **Double**| Coordinate lower left Y. |
+ **urx** | **Double**| Coordinate upper right X. |
+ **ury** | **Double**| Coordinate upper right Y. |
  **imageFilePath** | **String**| Path to image file if specified. Request content is used otherwise. | [optional]
  **storage** | **String**| The document storage. | [optional]
  **folder** | **String**| The document folder. | [optional]
@@ -6855,7 +6855,7 @@ Split document into ranges.
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **name** | **String**| The document name. |
- **options** | [**SplitRangePdfOptions**](SplitRangePdfOptions.md)| The splitting options. | [optional]
+ **options** | [**SplitRangePdfOptions**](SplitRangePdfOptions.md)| The splitting options. |
  **storage** | **String**| The document storage. | [optional]
  **folder** | **String**| The document folder. | [optional]
  **password** | **String**| Base64 encoded password. | [optional]
@@ -8340,10 +8340,10 @@ Name | Type | Description  | Notes
  **format** | **String**| Allows to specify .doc or .docx file format. | [optional] [enum: Doc, DocX]
  **imageResolutionX** | **Integer**| Image resolution X. | [optional]
  **imageResolutionY** | **Integer**| Image resolution Y. | [optional]
- **maxDistanceBetweenTextLines** | **Float**| Max distance between text lines. | [optional]
+ **maxDistanceBetweenTextLines** | **Double**| Max distance between text lines. | [optional]
  **mode** | **String**| Allows to control how a PDF document is converted into a word processing document. | [optional] [enum: Textbox, Flow, EnhancedFlow]
  **recognizeBullets** | **Boolean**| Recognize bullets. | [optional]
- **relativeHorizontalProximity** | **Float**| Relative horizontal proximity. | [optional]
+ **relativeHorizontalProximity** | **Double**| Relative horizontal proximity. | [optional]
  **storage** | **String**| The document storage. | [optional]
  **password** | **String**| The password (Base64). | [optional]
  **file** | **File**| A file to be converted. | [optional]
@@ -8566,7 +8566,7 @@ Converts PDF document (in request content) to TIFF format and uploads resulting 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **outPath** | **String**| Full resulting filename (ex. /folder1/folder2/result.tiff) |
- **brightness** | **Float**| Image brightness. | [optional]
+ **brightness** | **Double**| Image brightness. | [optional]
  **compression** | **String**| Tiff compression. Possible values are: LZW, CCITT4, CCITT3, RLE, None. | [optional] [enum: LZW, CCITT4, CCITT3, RLE, None]
  **colorDepth** | **String**| Image color depth. Possible valuse are: Default, Format8bpp, Format4bpp, Format1bpp. | [optional] [enum: Default, Format8bpp, Format4bpp, Format1bpp]
  **leftMargin** | **Integer**| Left image margin. | [optional]
@@ -8735,10 +8735,10 @@ Name | Type | Description  | Notes
  **format** | **String**| Allows to specify .doc or .docx file format. | [optional] [enum: Doc, DocX]
  **imageResolutionX** | **Integer**| Image resolution X. | [optional]
  **imageResolutionY** | **Integer**| Image resolution Y. | [optional]
- **maxDistanceBetweenTextLines** | **Float**| Max distance between text lines. | [optional]
+ **maxDistanceBetweenTextLines** | **Double**| Max distance between text lines. | [optional]
  **mode** | **String**| Allows to control how a PDF document is converted into a word processing document. | [optional] [enum: Textbox, Flow, EnhancedFlow]
  **recognizeBullets** | **Boolean**| Recognize bullets. | [optional]
- **relativeHorizontalProximity** | **Float**| Relative horizontal proximity. | [optional]
+ **relativeHorizontalProximity** | **Double**| Relative horizontal proximity. | [optional]
  **folder** | **String**| The document folder. | [optional]
  **storage** | **String**| The document storage. | [optional]
  **password** | **String**| The password (Base64). | [optional]
@@ -8969,7 +8969,7 @@ Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **name** | **String**| The document name. |
  **outPath** | **String**| Full resulting filename (ex. /folder1/folder2/result.tiff) |
- **brightness** | **Float**| Image brightness. | [optional]
+ **brightness** | **Double**| Image brightness. | [optional]
  **compression** | **String**| Tiff compression. Possible values are: LZW, CCITT4, CCITT3, RLE, None. | [optional] [enum: LZW, CCITT4, CCITT3, RLE, None]
  **colorDepth** | **String**| Image color depth. Possible valuse are: Default, Format8bpp, Format4bpp, Format1bpp. | [optional] [enum: Default, Format8bpp, Format4bpp, Format1bpp]
  **leftMargin** | **Integer**| Left image margin. | [optional]

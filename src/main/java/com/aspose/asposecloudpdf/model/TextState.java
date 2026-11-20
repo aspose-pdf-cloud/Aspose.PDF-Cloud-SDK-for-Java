@@ -41,7 +41,7 @@ import java.io.IOException;
 
 public class TextState {
   @SerializedName("FontSize")
-  private Float fontSize = null;
+  private Double fontSize = null;
 
   @SerializedName("Font")
   private String font = null;
@@ -70,7 +70,7 @@ public class TextState {
   @SerializedName("Subscript")
   private Boolean subscript = null;
 
-  public TextState fontSize(Float fontSize) {
+  public TextState fontSize(Double fontSize) {
     this.fontSize = fontSize;
     return this;
   }
@@ -80,11 +80,11 @@ public class TextState {
    * @return fontSize
   **/
   @ApiModelProperty(required = true, value = "Gets or sets font size of the text.")
-  public Float getFontSize() {
+  public Double getFontSize() {
     return fontSize;
   }
 
-  public void setFontSize(Float fontSize) {
+  public void setFontSize(Double fontSize) {
     this.fontSize = fontSize;
   }
 

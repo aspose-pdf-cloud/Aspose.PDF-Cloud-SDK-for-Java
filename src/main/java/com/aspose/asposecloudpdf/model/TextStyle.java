@@ -40,7 +40,7 @@ import java.io.IOException;
 
 public class TextStyle {
   @SerializedName("FontSize")
-  private Float fontSize = null;
+  private Double fontSize = null;
 
   @SerializedName("Font")
   private String font = null;
@@ -54,7 +54,7 @@ public class TextStyle {
   @SerializedName("FontFile")
   private String fontFile = null;
 
-  public TextStyle fontSize(Float fontSize) {
+  public TextStyle fontSize(Double fontSize) {
     this.fontSize = fontSize;
     return this;
   }
@@ -64,11 +64,11 @@ public class TextStyle {
    * @return fontSize
   **/
   @ApiModelProperty(required = true, value = "Gets or sets font size of the text.")
-  public Float getFontSize() {
+  public Double getFontSize() {
     return fontSize;
   }
 
-  public void setFontSize(Float fontSize) {
+  public void setFontSize(Double fontSize) {
     this.fontSize = fontSize;
   }
 

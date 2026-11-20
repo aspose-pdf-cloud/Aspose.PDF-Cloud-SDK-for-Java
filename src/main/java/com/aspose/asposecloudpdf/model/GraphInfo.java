@@ -42,7 +42,7 @@ import java.util.List;
 
 public class GraphInfo {
   @SerializedName("LineWidth")
-  private Float lineWidth = null;
+  private Double lineWidth = null;
 
   @SerializedName("Color")
   private Color color = null;
@@ -74,7 +74,7 @@ public class GraphInfo {
   @SerializedName("RotationAngle")
   private Double rotationAngle = null;
 
-  public GraphInfo lineWidth(Float lineWidth) {
+  public GraphInfo lineWidth(Double lineWidth) {
     this.lineWidth = lineWidth;
     return this;
   }
@@ -84,11 +84,11 @@ public class GraphInfo {
    * @return lineWidth
   **/
   @ApiModelProperty(value = "Gets or sets a float value that indicates the line width of the graph.")
-  public Float getLineWidth() {
+  public Double getLineWidth() {
     return lineWidth;
   }
 
-  public void setLineWidth(Float lineWidth) {
+  public void setLineWidth(Double lineWidth) {
     this.lineWidth = lineWidth;
   }
 

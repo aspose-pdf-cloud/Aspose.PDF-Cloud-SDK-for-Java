@@ -74,7 +74,7 @@ public class Paragraph {
   private Double rotation = null;
 
   @SerializedName("SubsequentLinesIndent")
-  private Float subsequentLinesIndent = null;
+  private Double subsequentLinesIndent = null;
 
   @SerializedName("VerticalAlignment")
   private VerticalAlignment verticalAlignment = null;
@@ -244,7 +244,7 @@ public class Paragraph {
     this.rotation = rotation;
   }
 
-  public Paragraph subsequentLinesIndent(Float subsequentLinesIndent) {
+  public Paragraph subsequentLinesIndent(Double subsequentLinesIndent) {
     this.subsequentLinesIndent = subsequentLinesIndent;
     return this;
   }
@@ -254,11 +254,11 @@ public class Paragraph {
    * @return subsequentLinesIndent
   **/
   @ApiModelProperty(value = "Subsequent lines indent value.")
-  public Float getSubsequentLinesIndent() {
+  public Double getSubsequentLinesIndent() {
     return subsequentLinesIndent;
   }
 
-  public void setSubsequentLinesIndent(Float subsequentLinesIndent) {
+  public void setSubsequentLinesIndent(Double subsequentLinesIndent) {
     this.subsequentLinesIndent = subsequentLinesIndent;
   }
 
