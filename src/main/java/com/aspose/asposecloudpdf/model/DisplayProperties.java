@@ -80,7 +80,7 @@ public class DisplayProperties extends LinkElement {
    * Gets or sets flag specifying whether position of the document&#39;s window will be centerd on the screen.
    * @return centerWindow
   **/
-  @ApiModelProperty(value = "Gets or sets flag specifying whether position of the document's window will be centerd on the screen.")
+  @ApiModelProperty(example = "false", value = "Gets or sets flag specifying whether position of the document's window will be centerd on the screen.")
   public Boolean isCenterWindow() {
     return centerWindow;
   }
@@ -116,7 +116,7 @@ public class DisplayProperties extends LinkElement {
    * Gets or sets flag specifying whether document&#39;s window title bar should display document title.
    * @return displayDocTitle
   **/
-  @ApiModelProperty(value = "Gets or sets flag specifying whether document's window title bar should display document title.")
+  @ApiModelProperty(example = "false", value = "Gets or sets flag specifying whether document's window title bar should display document title.")
   public Boolean isDisplayDocTitle() {
     return displayDocTitle;
   }
@@ -134,7 +134,7 @@ public class DisplayProperties extends LinkElement {
    * Gets or sets flag specifying whether menu bar should be hidden when document is active.
    * @return hideMenuBar
   **/
-  @ApiModelProperty(value = "Gets or sets flag specifying whether menu bar should be hidden when document is active.")
+  @ApiModelProperty(example = "false", value = "Gets or sets flag specifying whether menu bar should be hidden when document is active.")
   public Boolean isHideMenuBar() {
     return hideMenuBar;
   }
@@ -152,7 +152,7 @@ public class DisplayProperties extends LinkElement {
    * Gets or sets flag specifying whether toolbar should be hidden when document is active.
    * @return hideToolBar
   **/
-  @ApiModelProperty(value = "Gets or sets flag specifying whether toolbar should be hidden when document is active.")
+  @ApiModelProperty(example = "false", value = "Gets or sets flag specifying whether toolbar should be hidden when document is active.")
   public Boolean isHideToolBar() {
     return hideToolBar;
   }
@@ -170,7 +170,7 @@ public class DisplayProperties extends LinkElement {
    * Gets or sets flag specifying whether user interface elements should be hidden when document is active.
    * @return hideWindowUI
   **/
-  @ApiModelProperty(value = "Gets or sets flag specifying whether user interface elements should be hidden when document is active.")
+  @ApiModelProperty(example = "false", value = "Gets or sets flag specifying whether user interface elements should be hidden when document is active.")
   public Boolean isHideWindowUI() {
     return hideWindowUI;
   }

@@ -30,6 +30,10 @@ XLS, XLSX, PPTX, DOC, DOCX, MobiXML, JPEG, EMF, PNG, BMP, GIF, TIFF, Text
 ## Read PDF Formats
 MHT, PCL, PS, XSLFO, MD
 
+## Enhancements in Version 26.10
+- A new version of Aspose.PDF Cloud was prepared using the latest version of Aspose.PDF for .NET.
+
+
 ## Installation
 To install the API client library to your local Maven repository, simply execute:
 
@@ -52,7 +56,7 @@ Add this dependency to your project's POM:
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-cloud-pdf</artifactId>
-    <version>26.9.0</version>
+    <version>26.10.0</version>
     <scope>compile</scope>
 </dependency>
 ```
@@ -61,7 +65,7 @@ Add this dependency to your project's POM:
 Add this dependency to your project's build file:
 
 ```groovy
-compile "com.aspose:aspose-cloud-pdf:26.9.0"
+compile "com.aspose:aspose-cloud-pdf:26.10.0"
 ```
 
 ### Others
@@ -71,7 +75,7 @@ At first generate the JAR by executing:
 
 Then manually install the following JARs:
 
-* target/aspose-cloud-pdf-26.9.0.jar
+* target/aspose-cloud-pdf-26.10.0.jar
 * target/lib/*.jar
 
 ## Getting Started

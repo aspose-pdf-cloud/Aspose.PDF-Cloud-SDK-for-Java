@@ -4335,7 +4335,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert APS file (located on storage) to PDF format and return resulting file in response. 
+     * Convert APS file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
      * @param storage The document storage. (optional)
@@ -4361,7 +4361,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert APS file (located on storage) to PDF format and return resulting file in response. 
+     * Convert APS file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
      * @param storage The document storage. (optional)
@@ -4375,7 +4375,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert APS file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert APS file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
      * @param storage The document storage. (optional)
@@ -11412,7 +11412,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert EPUB file (located on storage) to PDF format and return resulting file in response. 
+     * Convert EPUB file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.epub) (required)
      * @param storage The document storage. (optional)
@@ -11438,7 +11438,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert EPUB file (located on storage) to PDF format and return resulting file in response. 
+     * Convert EPUB file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.epub) (required)
      * @param storage The document storage. (optional)
@@ -11452,7 +11452,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert EPUB file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert EPUB file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.epub) (required)
      * @param storage The document storage. (optional)
@@ -13245,7 +13245,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (located on storage) to PDF format and return resulting file in response. 
+     * Convert HTML file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.zip) (required)
      * @param htmlFileName Name of HTML file in ZIP. (optional)
@@ -13279,7 +13279,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (located on storage) to PDF format and return resulting file in response. 
+     * Convert HTML file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.zip) (required)
      * @param htmlFileName Name of HTML file in ZIP. (optional)
@@ -13301,7 +13301,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert HTML file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.zip) (required)
      * @param htmlFileName Name of HTML file in ZIP. (optional)
@@ -14900,7 +14900,7 @@ public class PdfApi {
     }
 
     /**
-     * Import from XML file (located on storage) to PDF format and return resulting file in response. 
+     * Import from XML file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param name The document name. (required)
      * @param xmlFilePath Full source filename (ex. /folder1/folder2/template.xml) (required)
@@ -14928,7 +14928,7 @@ public class PdfApi {
     }
 
     /**
-     * Import from XML file (located on storage) to PDF format and return resulting file in response. 
+     * Import from XML file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param name The document name. (required)
      * @param xmlFilePath Full source filename (ex. /folder1/folder2/template.xml) (required)
@@ -14944,7 +14944,7 @@ public class PdfApi {
     }
 
     /**
-     * Import from XML file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Import from XML file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param xmlFilePath Full source filename (ex. /folder1/folder2/template.xml) (required)
@@ -15681,7 +15681,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MD file (located on storage) to PDF format and return resulting file in response. 
+     * Convert MD file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.md) (required)
      * @param storage The document storage. (optional)
@@ -15707,7 +15707,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MD file (located on storage) to PDF format and return resulting file in response. 
+     * Convert MD file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.md) (required)
      * @param storage The document storage. (optional)
@@ -15721,7 +15721,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MD file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert MD file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.md) (required)
      * @param storage The document storage. (optional)
@@ -15842,7 +15842,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MHT file (located on storage) to PDF format and return resulting file in response. 
+     * Convert MHT file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.mht) (required)
      * @param height Page height (optional)
@@ -15874,7 +15874,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MHT file (located on storage) to PDF format and return resulting file in response. 
+     * Convert MHT file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.mht) (required)
      * @param height Page height (optional)
@@ -15894,7 +15894,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MHT file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert MHT file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.mht) (required)
      * @param height Page height (optional)
@@ -22666,7 +22666,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PCL file (located on storage) to PDF format and return resulting file in response. 
+     * Convert PCL file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pcl) (required)
      * @param storage The document storage. (optional)
@@ -22692,7 +22692,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PCL file (located on storage) to PDF format and return resulting file in response. 
+     * Convert PCL file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pcl) (required)
      * @param storage The document storage. (optional)
@@ -22706,7 +22706,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PCL file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert PCL file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pcl) (required)
      * @param storage The document storage. (optional)
@@ -22812,7 +22812,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PDFA file (located on storage) to PDF format and return resulting file in response. 
+     * Convert PDFA file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pdf) (required)
      * @param dontOptimize If set, document resources will not be optimized. (optional)
@@ -22839,7 +22839,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PDFA file (located on storage) to PDF format and return resulting file in response. 
+     * Convert PDFA file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pdf) (required)
      * @param dontOptimize If set, document resources will not be optimized. (optional)
@@ -22854,7 +22854,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PDFA file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert PDFA file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pdf) (required)
      * @param dontOptimize If set, document resources will not be optimized. (optional)
@@ -26083,7 +26083,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PS file (located on storage) to PDF format and return resulting file in response. 
+     * Convert PS file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.ps) (required)
      * @param storage The document storage. (optional)
@@ -26109,7 +26109,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PS file (located on storage) to PDF format and return resulting file in response. 
+     * Convert PS file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.ps) (required)
      * @param storage The document storage. (optional)
@@ -26123,7 +26123,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PS file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert PS file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.ps) (required)
      * @param storage The document storage. (optional)
@@ -28146,7 +28146,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert SVG file (located on storage) to PDF format and return resulting file in response. 
+     * Convert SVG file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.svg) (required)
      * @param adjustPageSize Adjust page size (optional)
@@ -28180,7 +28180,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert SVG file (located on storage) to PDF format and return resulting file in response. 
+     * Convert SVG file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.svg) (required)
      * @param adjustPageSize Adjust page size (optional)
@@ -28202,7 +28202,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert SVG file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert SVG file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.svg) (required)
      * @param adjustPageSize Adjust page size (optional)
@@ -28471,7 +28471,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert TeX file (located on storage) to PDF format and return resulting file in response. 
+     * Convert TeX file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.tex) (required)
      * @param storage The document storage. (optional)
@@ -28497,7 +28497,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert TeX file (located on storage) to PDF format and return resulting file in response. 
+     * Convert TeX file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.tex) (required)
      * @param storage The document storage. (optional)
@@ -28511,7 +28511,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert TeX file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert TeX file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.tex) (required)
      * @param storage The document storage. (optional)
@@ -29478,7 +29478,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert web page to PDF format and return resulting file in response. 
+     * Convert web page to PDF format and return resulting file in response.
      * 
      * @param url Source url (required)
      * @param height Page height (optional)
@@ -29511,7 +29511,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert web page to PDF format and return resulting file in response. 
+     * Convert web page to PDF format and return resulting file in response.
      * 
      * @param url Source url (required)
      * @param height Page height (optional)
@@ -29532,7 +29532,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert web page to PDF format and return resulting file in response.  (asynchronously)
+     * Convert web page to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param url Source url (required)
      * @param height Page height (optional)
@@ -29941,7 +29941,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XML file (located on storage) to PDF format and return resulting file in response. 
+     * Convert XML file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xml) (required)
      * @param xslFilePath Full XSL source filename (ex. /folder1/folder2/template.xsl) (optional)
@@ -29968,7 +29968,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XML file (located on storage) to PDF format and return resulting file in response. 
+     * Convert XML file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xml) (required)
      * @param xslFilePath Full XSL source filename (ex. /folder1/folder2/template.xsl) (optional)
@@ -29983,7 +29983,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XML file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert XML file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xml) (required)
      * @param xslFilePath Full XSL source filename (ex. /folder1/folder2/template.xsl) (optional)
@@ -30395,7 +30395,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XPS file (located on storage) to PDF format and return resulting file in response. 
+     * Convert XPS file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
      * @param storage The document storage. (optional)
@@ -30421,7 +30421,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XPS file (located on storage) to PDF format and return resulting file in response. 
+     * Convert XPS file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
      * @param storage The document storage. (optional)
@@ -30435,7 +30435,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XPS file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert XPS file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
      * @param storage The document storage. (optional)
@@ -30538,7 +30538,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XslFo file (located on storage) to PDF format and return resulting file in response. 
+     * Convert XslFo file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xslfo) (required)
      * @param storage The document storage. (optional)
@@ -30564,7 +30564,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XslFo file (located on storage) to PDF format and return resulting file in response. 
+     * Convert XslFo file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xslfo) (required)
      * @param storage The document storage. (optional)
@@ -30578,7 +30578,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XslFo file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert XslFo file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xslfo) (required)
      * @param storage The document storage. (optional)
@@ -35359,7 +35359,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (zip archive in request content) to PDF format and return resulting file in response. 
+     * Convert HTML file (zip archive in request content) to PDF format and return resulting file in response.
      * 
      * @param htmlFileName Name of HTML file in ZIP. (optional)
      * @param height Page height (optional)
@@ -35391,7 +35391,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (zip archive in request content) to PDF format and return resulting file in response. 
+     * Convert HTML file (zip archive in request content) to PDF format and return resulting file in response.
      * 
      * @param htmlFileName Name of HTML file in ZIP. (optional)
      * @param height Page height (optional)
@@ -35411,7 +35411,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (zip archive in request content) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert HTML file (zip archive in request content) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param htmlFileName Name of HTML file in ZIP. (optional)
      * @param height Page height (optional)
@@ -43475,7 +43475,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert APS file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert APS file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
@@ -43503,7 +43503,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert APS file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert APS file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
@@ -43519,7 +43519,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert APS file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert APS file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
@@ -45497,7 +45497,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert EPUB file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert EPUB file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.epub) (required)
@@ -45525,7 +45525,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert EPUB file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert EPUB file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.epub) (required)
@@ -45541,7 +45541,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert EPUB file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert EPUB file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.epub) (required)
@@ -46970,7 +46970,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert HTML file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.zip) (required)
@@ -47006,7 +47006,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert HTML file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.zip) (required)
@@ -47030,7 +47030,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert HTML file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.zip) (required)
@@ -47855,7 +47855,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert image file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert image file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param imageTemplates ImageTemplatesRequestImage templates (required)
@@ -47883,7 +47883,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert image file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert image file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param imageTemplates ImageTemplatesRequestImage templates (required)
@@ -47899,7 +47899,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert image file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert image file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param imageTemplates ImageTemplatesRequestImage templates (required)
@@ -49863,7 +49863,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MD file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert MD file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.md) (required)
@@ -49891,7 +49891,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MD file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert MD file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.md) (required)
@@ -49907,7 +49907,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MD file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert MD file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.md) (required)
@@ -50197,7 +50197,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MHT file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert MHT file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.mht) (required)
@@ -50231,7 +50231,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MHT file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert MHT file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.mht) (required)
@@ -50253,7 +50253,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MHT file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert MHT file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.mht) (required)
@@ -51830,7 +51830,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PCL file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert PCL file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pcl) (required)
@@ -51858,7 +51858,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PCL file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert PCL file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pcl) (required)
@@ -51874,7 +51874,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PCL file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert PCL file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pcl) (required)
@@ -51992,7 +51992,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PDFA file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert PDFA file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pdf) (required)
@@ -52021,7 +52021,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PDFA file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert PDFA file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pdf) (required)
@@ -52038,7 +52038,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PDFA file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert PDFA file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pdf) (required)
@@ -57958,7 +57958,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PS file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert PS file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.ps) (required)
@@ -57986,7 +57986,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PS file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert PS file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.ps) (required)
@@ -58002,7 +58002,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PS file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert PS file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.ps) (required)
@@ -60823,7 +60823,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert SVG file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert SVG file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.svg) (required)
@@ -60859,7 +60859,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert SVG file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert SVG file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.svg) (required)
@@ -60883,7 +60883,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert SVG file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert SVG file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.svg) (required)
@@ -61173,7 +61173,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert TeX file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert TeX file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.tex) (required)
@@ -61201,7 +61201,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert TeX file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert TeX file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.tex) (required)
@@ -61217,7 +61217,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert TeX file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert TeX file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.tex) (required)
@@ -62178,7 +62178,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert web page to PDF format and upload resulting file to storage. 
+     * Convert web page to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param url Source url (required)
@@ -62213,7 +62213,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert web page to PDF format and upload resulting file to storage. 
+     * Convert web page to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param url Source url (required)
@@ -62236,7 +62236,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert web page to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert web page to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param url Source url (required)
@@ -62667,7 +62667,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XML file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert XML file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xml) (required)
@@ -62696,7 +62696,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XML file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert XML file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xml) (required)
@@ -62713,7 +62713,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XML file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert XML file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xml) (required)
@@ -62829,7 +62829,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XPS file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert XPS file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
@@ -62857,7 +62857,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XPS file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert XPS file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
@@ -62873,7 +62873,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XPS file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert XPS file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
@@ -62988,7 +62988,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XslFo file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert XslFo file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xpsfo) (required)
@@ -63016,7 +63016,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XslFo file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert XslFo file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xpsfo) (required)
@@ -63032,7 +63032,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XslFo file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert XslFo file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xpsfo) (required)
