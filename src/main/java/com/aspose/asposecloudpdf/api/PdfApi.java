@@ -4335,7 +4335,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert APS file (located on storage) to PDF format and return resulting file in response. 
+     * Convert APS file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
      * @param storage The document storage. (optional)
@@ -4361,7 +4361,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert APS file (located on storage) to PDF format and return resulting file in response. 
+     * Convert APS file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
      * @param storage The document storage. (optional)
@@ -4375,7 +4375,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert APS file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert APS file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
      * @param storage The document storage. (optional)
@@ -11412,7 +11412,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert EPUB file (located on storage) to PDF format and return resulting file in response. 
+     * Convert EPUB file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.epub) (required)
      * @param storage The document storage. (optional)
@@ -11438,7 +11438,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert EPUB file (located on storage) to PDF format and return resulting file in response. 
+     * Convert EPUB file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.epub) (required)
      * @param storage The document storage. (optional)
@@ -11452,7 +11452,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert EPUB file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert EPUB file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.epub) (required)
      * @param storage The document storage. (optional)
@@ -13245,7 +13245,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (located on storage) to PDF format and return resulting file in response. 
+     * Convert HTML file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.zip) (required)
      * @param htmlFileName Name of HTML file in ZIP. (optional)
@@ -13279,7 +13279,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (located on storage) to PDF format and return resulting file in response. 
+     * Convert HTML file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.zip) (required)
      * @param htmlFileName Name of HTML file in ZIP. (optional)
@@ -13301,7 +13301,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert HTML file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.zip) (required)
      * @param htmlFileName Name of HTML file in ZIP. (optional)
@@ -14900,7 +14900,7 @@ public class PdfApi {
     }
 
     /**
-     * Import from XML file (located on storage) to PDF format and return resulting file in response. 
+     * Import from XML file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param name The document name. (required)
      * @param xmlFilePath Full source filename (ex. /folder1/folder2/template.xml) (required)
@@ -14928,7 +14928,7 @@ public class PdfApi {
     }
 
     /**
-     * Import from XML file (located on storage) to PDF format and return resulting file in response. 
+     * Import from XML file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param name The document name. (required)
      * @param xmlFilePath Full source filename (ex. /folder1/folder2/template.xml) (required)
@@ -14944,7 +14944,7 @@ public class PdfApi {
     }
 
     /**
-     * Import from XML file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Import from XML file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param xmlFilePath Full source filename (ex. /folder1/folder2/template.xml) (required)
@@ -15681,7 +15681,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MD file (located on storage) to PDF format and return resulting file in response. 
+     * Convert MD file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.md) (required)
      * @param storage The document storage. (optional)
@@ -15707,7 +15707,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MD file (located on storage) to PDF format and return resulting file in response. 
+     * Convert MD file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.md) (required)
      * @param storage The document storage. (optional)
@@ -15721,7 +15721,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MD file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert MD file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.md) (required)
      * @param storage The document storage. (optional)
@@ -15842,7 +15842,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MHT file (located on storage) to PDF format and return resulting file in response. 
+     * Convert MHT file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.mht) (required)
      * @param height Page height (optional)
@@ -15874,7 +15874,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MHT file (located on storage) to PDF format and return resulting file in response. 
+     * Convert MHT file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.mht) (required)
      * @param height Page height (optional)
@@ -15894,7 +15894,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MHT file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert MHT file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.mht) (required)
      * @param height Page height (optional)
@@ -22666,7 +22666,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PCL file (located on storage) to PDF format and return resulting file in response. 
+     * Convert PCL file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pcl) (required)
      * @param storage The document storage. (optional)
@@ -22692,7 +22692,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PCL file (located on storage) to PDF format and return resulting file in response. 
+     * Convert PCL file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pcl) (required)
      * @param storage The document storage. (optional)
@@ -22706,7 +22706,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PCL file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert PCL file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pcl) (required)
      * @param storage The document storage. (optional)
@@ -22812,7 +22812,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PDFA file (located on storage) to PDF format and return resulting file in response. 
+     * Convert PDFA file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pdf) (required)
      * @param dontOptimize If set, document resources will not be optimized. (optional)
@@ -22839,7 +22839,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PDFA file (located on storage) to PDF format and return resulting file in response. 
+     * Convert PDFA file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pdf) (required)
      * @param dontOptimize If set, document resources will not be optimized. (optional)
@@ -22854,7 +22854,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PDFA file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert PDFA file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pdf) (required)
      * @param dontOptimize If set, document resources will not be optimized. (optional)
@@ -23056,7 +23056,7 @@ public class PdfApi {
      * @return Call to execute
      * @throws ApiException If fail to serialize the request body object
      */
-    public com.squareup.okhttp.Call getPdfInStorageToDocCall(String name, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String folder, String storage, String password, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    public com.squareup.okhttp.Call getPdfInStorageToDocCall(String name, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String folder, String storage, String password, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         Object localVarPostBody = null;
 
         // create path and map variables
@@ -23121,7 +23121,7 @@ public class PdfApi {
     }
 
     @SuppressWarnings("rawtypes")
-    private com.squareup.okhttp.Call getPdfInStorageToDocValidateBeforeCall(String name, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String folder, String storage, String password, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    private com.squareup.okhttp.Call getPdfInStorageToDocValidateBeforeCall(String name, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String folder, String storage, String password, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         
         // verify the required parameter 'name' is set
         if (name == null) {
@@ -23152,7 +23152,7 @@ public class PdfApi {
      * @return File
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public File getPdfInStorageToDoc(String name, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String folder, String storage, String password) throws ApiException {
+    public File getPdfInStorageToDoc(String name, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String folder, String storage, String password) throws ApiException {
         try
         {
             ApiResponse<File> resp = getPdfInStorageToDocWithHttpInfo(name, addReturnToLineEnd, format, imageResolutionX, imageResolutionY, maxDistanceBetweenTextLines, mode, recognizeBullets, relativeHorizontalProximity, folder, storage, password);
@@ -23188,7 +23188,7 @@ public class PdfApi {
      * @return ApiResponse&lt;File&gt;
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public ApiResponse<File> getPdfInStorageToDocWithHttpInfo(String name, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String folder, String storage, String password) throws ApiException {
+    public ApiResponse<File> getPdfInStorageToDocWithHttpInfo(String name, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String folder, String storage, String password) throws ApiException {
         com.squareup.okhttp.Call call = getPdfInStorageToDocValidateBeforeCall(name, addReturnToLineEnd, format, imageResolutionX, imageResolutionY, maxDistanceBetweenTextLines, mode, recognizeBullets, relativeHorizontalProximity, folder, storage, password, null, null);
         Type localVarReturnType = new TypeToken<File>(){}.getType();
         return apiClient.execute(call, localVarReturnType);
@@ -23213,7 +23213,7 @@ public class PdfApi {
      * @return The request call
      * @throws ApiException If fail to process the API call, e.g. serializing the request body object
      */
-    public com.squareup.okhttp.Call getPdfInStorageToDocAsync(String name, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String folder, String storage, String password, final ApiCallback<File> callback) throws ApiException {
+    public com.squareup.okhttp.Call getPdfInStorageToDocAsync(String name, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String folder, String storage, String password, final ApiCallback<File> callback) throws ApiException {
 
         ProgressResponseBody.ProgressListener progressListener = null;
         ProgressRequestBody.ProgressRequestListener progressRequestListener = null;
@@ -24675,7 +24675,7 @@ public class PdfApi {
      * @return Call to execute
      * @throws ApiException If fail to serialize the request body object
      */
-    public com.squareup.okhttp.Call getPdfInStorageToTiffCall(String name, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    public com.squareup.okhttp.Call getPdfInStorageToTiffCall(String name, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         Object localVarPostBody = null;
 
         // create path and map variables
@@ -24752,7 +24752,7 @@ public class PdfApi {
     }
 
     @SuppressWarnings("rawtypes")
-    private com.squareup.okhttp.Call getPdfInStorageToTiffValidateBeforeCall(String name, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    private com.squareup.okhttp.Call getPdfInStorageToTiffValidateBeforeCall(String name, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         
         // verify the required parameter 'name' is set
         if (name == null) {
@@ -24789,7 +24789,7 @@ public class PdfApi {
      * @return File
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public File getPdfInStorageToTiff(String name, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage) throws ApiException {
+    public File getPdfInStorageToTiff(String name, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage) throws ApiException {
         try
         {
             ApiResponse<File> resp = getPdfInStorageToTiffWithHttpInfo(name, brightness, compression, colorDepth, leftMargin, rightMargin, topMargin, bottomMargin, orientation, skipBlankPages, width, height, xResolution, yResolution, pageIndex, pageCount, folder, storage);
@@ -24831,7 +24831,7 @@ public class PdfApi {
      * @return ApiResponse&lt;File&gt;
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public ApiResponse<File> getPdfInStorageToTiffWithHttpInfo(String name, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage) throws ApiException {
+    public ApiResponse<File> getPdfInStorageToTiffWithHttpInfo(String name, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage) throws ApiException {
         com.squareup.okhttp.Call call = getPdfInStorageToTiffValidateBeforeCall(name, brightness, compression, colorDepth, leftMargin, rightMargin, topMargin, bottomMargin, orientation, skipBlankPages, width, height, xResolution, yResolution, pageIndex, pageCount, folder, storage, null, null);
         Type localVarReturnType = new TypeToken<File>(){}.getType();
         return apiClient.execute(call, localVarReturnType);
@@ -24862,7 +24862,7 @@ public class PdfApi {
      * @return The request call
      * @throws ApiException If fail to process the API call, e.g. serializing the request body object
      */
-    public com.squareup.okhttp.Call getPdfInStorageToTiffAsync(String name, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage, final ApiCallback<File> callback) throws ApiException {
+    public com.squareup.okhttp.Call getPdfInStorageToTiffAsync(String name, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage, final ApiCallback<File> callback) throws ApiException {
 
         ProgressResponseBody.ProgressListener progressListener = null;
         ProgressRequestBody.ProgressRequestListener progressRequestListener = null;
@@ -26083,7 +26083,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PS file (located on storage) to PDF format and return resulting file in response. 
+     * Convert PS file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.ps) (required)
      * @param storage The document storage. (optional)
@@ -26109,7 +26109,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PS file (located on storage) to PDF format and return resulting file in response. 
+     * Convert PS file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.ps) (required)
      * @param storage The document storage. (optional)
@@ -26123,7 +26123,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PS file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert PS file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.ps) (required)
      * @param storage The document storage. (optional)
@@ -28146,7 +28146,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert SVG file (located on storage) to PDF format and return resulting file in response. 
+     * Convert SVG file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.svg) (required)
      * @param adjustPageSize Adjust page size (optional)
@@ -28180,7 +28180,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert SVG file (located on storage) to PDF format and return resulting file in response. 
+     * Convert SVG file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.svg) (required)
      * @param adjustPageSize Adjust page size (optional)
@@ -28202,7 +28202,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert SVG file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert SVG file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.svg) (required)
      * @param adjustPageSize Adjust page size (optional)
@@ -28471,7 +28471,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert TeX file (located on storage) to PDF format and return resulting file in response. 
+     * Convert TeX file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.tex) (required)
      * @param storage The document storage. (optional)
@@ -28497,7 +28497,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert TeX file (located on storage) to PDF format and return resulting file in response. 
+     * Convert TeX file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.tex) (required)
      * @param storage The document storage. (optional)
@@ -28511,7 +28511,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert TeX file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert TeX file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.tex) (required)
      * @param storage The document storage. (optional)
@@ -29478,7 +29478,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert web page to PDF format and return resulting file in response. 
+     * Convert web page to PDF format and return resulting file in response.
      * 
      * @param url Source url (required)
      * @param height Page height (optional)
@@ -29511,7 +29511,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert web page to PDF format and return resulting file in response. 
+     * Convert web page to PDF format and return resulting file in response.
      * 
      * @param url Source url (required)
      * @param height Page height (optional)
@@ -29532,7 +29532,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert web page to PDF format and return resulting file in response.  (asynchronously)
+     * Convert web page to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param url Source url (required)
      * @param height Page height (optional)
@@ -29941,7 +29941,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XML file (located on storage) to PDF format and return resulting file in response. 
+     * Convert XML file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xml) (required)
      * @param xslFilePath Full XSL source filename (ex. /folder1/folder2/template.xsl) (optional)
@@ -29968,7 +29968,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XML file (located on storage) to PDF format and return resulting file in response. 
+     * Convert XML file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xml) (required)
      * @param xslFilePath Full XSL source filename (ex. /folder1/folder2/template.xsl) (optional)
@@ -29983,7 +29983,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XML file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert XML file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xml) (required)
      * @param xslFilePath Full XSL source filename (ex. /folder1/folder2/template.xsl) (optional)
@@ -30395,7 +30395,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XPS file (located on storage) to PDF format and return resulting file in response. 
+     * Convert XPS file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
      * @param storage The document storage. (optional)
@@ -30421,7 +30421,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XPS file (located on storage) to PDF format and return resulting file in response. 
+     * Convert XPS file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
      * @param storage The document storage. (optional)
@@ -30435,7 +30435,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XPS file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert XPS file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
      * @param storage The document storage. (optional)
@@ -30538,7 +30538,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XslFo file (located on storage) to PDF format and return resulting file in response. 
+     * Convert XslFo file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xslfo) (required)
      * @param storage The document storage. (optional)
@@ -30564,7 +30564,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XslFo file (located on storage) to PDF format and return resulting file in response. 
+     * Convert XslFo file (located on storage) to PDF format and return resulting file in response.
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xslfo) (required)
      * @param storage The document storage. (optional)
@@ -30578,7 +30578,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XslFo file (located on storage) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert XslFo file (located on storage) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xslfo) (required)
      * @param storage The document storage. (optional)
@@ -33748,7 +33748,7 @@ public class PdfApi {
      * @return Call to execute
      * @throws ApiException If fail to serialize the request body object
      */
-    public com.squareup.okhttp.Call postDocumentPagesResizeCall(String name, Double height, Double width, String pages, String storage, String folder, String password, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    public com.squareup.okhttp.Call postDocumentPagesResizeCall(String name, Float height, Float width, String pages, String storage, String folder, String password, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         Object localVarPostBody = null;
 
         // create path and map variables
@@ -33803,7 +33803,7 @@ public class PdfApi {
     }
 
     @SuppressWarnings("rawtypes")
-    private com.squareup.okhttp.Call postDocumentPagesResizeValidateBeforeCall(String name, Double height, Double width, String pages, String storage, String folder, String password, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    private com.squareup.okhttp.Call postDocumentPagesResizeValidateBeforeCall(String name, Float height, Float width, String pages, String storage, String folder, String password, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         
         // verify the required parameter 'name' is set
         if (name == null) {
@@ -33844,7 +33844,7 @@ public class PdfApi {
      * @return AsposeResponse
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public AsposeResponse postDocumentPagesResize(String name, Double height, Double width, String pages, String storage, String folder, String password) throws ApiException {
+    public AsposeResponse postDocumentPagesResize(String name, Float height, Float width, String pages, String storage, String folder, String password) throws ApiException {
         try
         {
             ApiResponse<AsposeResponse> resp = postDocumentPagesResizeWithHttpInfo(name, height, width, pages, storage, folder, password);
@@ -33875,7 +33875,7 @@ public class PdfApi {
      * @return ApiResponse&lt;AsposeResponse&gt;
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public ApiResponse<AsposeResponse> postDocumentPagesResizeWithHttpInfo(String name, Double height, Double width, String pages, String storage, String folder, String password) throws ApiException {
+    public ApiResponse<AsposeResponse> postDocumentPagesResizeWithHttpInfo(String name, Float height, Float width, String pages, String storage, String folder, String password) throws ApiException {
         com.squareup.okhttp.Call call = postDocumentPagesResizeValidateBeforeCall(name, height, width, pages, storage, folder, password, null, null);
         Type localVarReturnType = new TypeToken<AsposeResponse>(){}.getType();
         return apiClient.execute(call, localVarReturnType);
@@ -33895,7 +33895,7 @@ public class PdfApi {
      * @return The request call
      * @throws ApiException If fail to process the API call, e.g. serializing the request body object
      */
-    public com.squareup.okhttp.Call postDocumentPagesResizeAsync(String name, Double height, Double width, String pages, String storage, String folder, String password, final ApiCallback<AsposeResponse> callback) throws ApiException {
+    public com.squareup.okhttp.Call postDocumentPagesResizeAsync(String name, Float height, Float width, String pages, String storage, String folder, String password, final ApiCallback<AsposeResponse> callback) throws ApiException {
 
         ProgressResponseBody.ProgressListener progressListener = null;
         ProgressRequestBody.ProgressRequestListener progressRequestListener = null;
@@ -35359,7 +35359,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (zip archive in request content) to PDF format and return resulting file in response. 
+     * Convert HTML file (zip archive in request content) to PDF format and return resulting file in response.
      * 
      * @param htmlFileName Name of HTML file in ZIP. (optional)
      * @param height Page height (optional)
@@ -35391,7 +35391,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (zip archive in request content) to PDF format and return resulting file in response. 
+     * Convert HTML file (zip archive in request content) to PDF format and return resulting file in response.
      * 
      * @param htmlFileName Name of HTML file in ZIP. (optional)
      * @param height Page height (optional)
@@ -35411,7 +35411,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (zip archive in request content) to PDF format and return resulting file in response.  (asynchronously)
+     * Convert HTML file (zip archive in request content) to PDF format and return resulting file in response. (asynchronously)
      * 
      * @param htmlFileName Name of HTML file in ZIP. (optional)
      * @param height Page height (optional)
@@ -35924,7 +35924,7 @@ public class PdfApi {
      * @return Call to execute
      * @throws ApiException If fail to serialize the request body object
      */
-    public com.squareup.okhttp.Call postInsertImageCall(String name, Integer pageNumber, Double llx, Double lly, Double urx, Double ury, String imageFilePath, String storage, String folder, File image, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    public com.squareup.okhttp.Call postInsertImageCall(String name, Integer pageNumber, Float llx, Float lly, Float urx, Float ury, String imageFilePath, String storage, String folder, File image, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         Object localVarPostBody = image;
 
         // create path and map variables
@@ -35982,7 +35982,7 @@ public class PdfApi {
     }
 
     @SuppressWarnings("rawtypes")
-    private com.squareup.okhttp.Call postInsertImageValidateBeforeCall(String name, Integer pageNumber, Double llx, Double lly, Double urx, Double ury, String imageFilePath, String storage, String folder, File image, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    private com.squareup.okhttp.Call postInsertImageValidateBeforeCall(String name, Integer pageNumber, Float llx, Float lly, Float urx, Float ury, String imageFilePath, String storage, String folder, File image, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         
         // verify the required parameter 'name' is set
         if (name == null) {
@@ -36036,7 +36036,7 @@ public class PdfApi {
      * @return AsposeResponse
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public AsposeResponse postInsertImage(String name, Integer pageNumber, Double llx, Double lly, Double urx, Double ury, String imageFilePath, String storage, String folder, File image) throws ApiException {
+    public AsposeResponse postInsertImage(String name, Integer pageNumber, Float llx, Float lly, Float urx, Float ury, String imageFilePath, String storage, String folder, File image) throws ApiException {
         try
         {
             ApiResponse<AsposeResponse> resp = postInsertImageWithHttpInfo(name, pageNumber, llx, lly, urx, ury, imageFilePath, storage, folder, image);
@@ -36070,7 +36070,7 @@ public class PdfApi {
      * @return ApiResponse&lt;AsposeResponse&gt;
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public ApiResponse<AsposeResponse> postInsertImageWithHttpInfo(String name, Integer pageNumber, Double llx, Double lly, Double urx, Double ury, String imageFilePath, String storage, String folder, File image) throws ApiException {
+    public ApiResponse<AsposeResponse> postInsertImageWithHttpInfo(String name, Integer pageNumber, Float llx, Float lly, Float urx, Float ury, String imageFilePath, String storage, String folder, File image) throws ApiException {
         com.squareup.okhttp.Call call = postInsertImageValidateBeforeCall(name, pageNumber, llx, lly, urx, ury, imageFilePath, storage, folder, image, null, null);
         Type localVarReturnType = new TypeToken<AsposeResponse>(){}.getType();
         return apiClient.execute(call, localVarReturnType);
@@ -36093,7 +36093,7 @@ public class PdfApi {
      * @return The request call
      * @throws ApiException If fail to process the API call, e.g. serializing the request body object
      */
-    public com.squareup.okhttp.Call postInsertImageAsync(String name, Integer pageNumber, Double llx, Double lly, Double urx, Double ury, String imageFilePath, String storage, String folder, File image, final ApiCallback<AsposeResponse> callback) throws ApiException {
+    public com.squareup.okhttp.Call postInsertImageAsync(String name, Integer pageNumber, Float llx, Float lly, Float urx, Float ury, String imageFilePath, String storage, String folder, File image, final ApiCallback<AsposeResponse> callback) throws ApiException {
 
         ProgressResponseBody.ProgressListener progressListener = null;
         ProgressRequestBody.ProgressRequestListener progressRequestListener = null;
@@ -42435,7 +42435,7 @@ public class PdfApi {
     /**
      * Build call for postSplitRangePdfDocument
      * @param name The document name. (required)
-     * @param options The splitting options. (required)
+     * @param options The splitting options. (optional)
      * @param storage The document storage. (optional)
      * @param folder The document folder. (optional)
      * @param password Base64 encoded password. (optional)
@@ -42500,11 +42500,6 @@ public class PdfApi {
             throw new ApiException("Missing the required parameter 'name' when calling postSplitRangePdfDocument(Async)");
         }
         
-        // verify the required parameter 'options' is set
-        if (options == null) {
-            throw new ApiException("Missing the required parameter 'options' when calling postSplitRangePdfDocument(Async)");
-        }
-        
 
         com.squareup.okhttp.Call call = postSplitRangePdfDocumentCall(name, options, storage, folder, password, progressListener, progressRequestListener);
         return call;
@@ -42515,7 +42510,7 @@ public class PdfApi {
      * Split document into ranges.
      * 
      * @param name The document name. (required)
-     * @param options The splitting options. (required)
+     * @param options The splitting options. (optional)
      * @param storage The document storage. (optional)
      * @param folder The document folder. (optional)
      * @param password Base64 encoded password. (optional)
@@ -42544,7 +42539,7 @@ public class PdfApi {
      * Split document into ranges.
      * 
      * @param name The document name. (required)
-     * @param options The splitting options. (required)
+     * @param options The splitting options. (optional)
      * @param storage The document storage. (optional)
      * @param folder The document folder. (optional)
      * @param password Base64 encoded password. (optional)
@@ -42561,7 +42556,7 @@ public class PdfApi {
      * Split document into ranges. (asynchronously)
      * 
      * @param name The document name. (required)
-     * @param options The splitting options. (required)
+     * @param options The splitting options. (optional)
      * @param storage The document storage. (optional)
      * @param folder The document folder. (optional)
      * @param password Base64 encoded password. (optional)
@@ -43475,7 +43470,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert APS file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert APS file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
@@ -43503,7 +43498,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert APS file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert APS file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
@@ -43519,7 +43514,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert APS file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert APS file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
@@ -45497,7 +45492,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert EPUB file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert EPUB file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.epub) (required)
@@ -45525,7 +45520,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert EPUB file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert EPUB file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.epub) (required)
@@ -45541,7 +45536,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert EPUB file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert EPUB file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.epub) (required)
@@ -46970,7 +46965,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert HTML file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.zip) (required)
@@ -47006,7 +47001,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert HTML file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.zip) (required)
@@ -47030,7 +47025,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert HTML file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert HTML file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.zip) (required)
@@ -47855,7 +47850,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert image file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert image file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param imageTemplates ImageTemplatesRequestImage templates (required)
@@ -47883,7 +47878,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert image file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert image file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param imageTemplates ImageTemplatesRequestImage templates (required)
@@ -47899,7 +47894,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert image file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert image file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param imageTemplates ImageTemplatesRequestImage templates (required)
@@ -49863,7 +49858,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MD file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert MD file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.md) (required)
@@ -49891,7 +49886,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MD file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert MD file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.md) (required)
@@ -49907,7 +49902,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MD file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert MD file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.md) (required)
@@ -50197,7 +50192,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MHT file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert MHT file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.mht) (required)
@@ -50231,7 +50226,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MHT file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert MHT file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.mht) (required)
@@ -50253,7 +50248,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert MHT file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert MHT file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.mht) (required)
@@ -51830,7 +51825,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PCL file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert PCL file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pcl) (required)
@@ -51858,7 +51853,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PCL file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert PCL file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pcl) (required)
@@ -51874,7 +51869,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PCL file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert PCL file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pcl) (required)
@@ -51992,7 +51987,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PDFA file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert PDFA file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pdf) (required)
@@ -52021,7 +52016,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PDFA file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert PDFA file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pdf) (required)
@@ -52038,7 +52033,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PDFA file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert PDFA file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.pdf) (required)
@@ -52241,7 +52236,7 @@ public class PdfApi {
      * @return Call to execute
      * @throws ApiException If fail to serialize the request body object
      */
-    public com.squareup.okhttp.Call putPdfInRequestToDocCall(String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String storage, String password, File file, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    public com.squareup.okhttp.Call putPdfInRequestToDocCall(String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String storage, String password, File file, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         Object localVarPostBody = file;
 
         // create path and map variables
@@ -52305,7 +52300,7 @@ public class PdfApi {
     }
 
     @SuppressWarnings("rawtypes")
-    private com.squareup.okhttp.Call putPdfInRequestToDocValidateBeforeCall(String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String storage, String password, File file, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    private com.squareup.okhttp.Call putPdfInRequestToDocValidateBeforeCall(String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String storage, String password, File file, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         
         // verify the required parameter 'outPath' is set
         if (outPath == null) {
@@ -52336,7 +52331,7 @@ public class PdfApi {
      * @return AsposeResponse
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public AsposeResponse putPdfInRequestToDoc(String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String storage, String password, File file) throws ApiException {
+    public AsposeResponse putPdfInRequestToDoc(String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String storage, String password, File file) throws ApiException {
         try
         {
             ApiResponse<AsposeResponse> resp = putPdfInRequestToDocWithHttpInfo(outPath, addReturnToLineEnd, format, imageResolutionX, imageResolutionY, maxDistanceBetweenTextLines, mode, recognizeBullets, relativeHorizontalProximity, storage, password, file);
@@ -52372,7 +52367,7 @@ public class PdfApi {
      * @return ApiResponse&lt;AsposeResponse&gt;
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public ApiResponse<AsposeResponse> putPdfInRequestToDocWithHttpInfo(String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String storage, String password, File file) throws ApiException {
+    public ApiResponse<AsposeResponse> putPdfInRequestToDocWithHttpInfo(String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String storage, String password, File file) throws ApiException {
         com.squareup.okhttp.Call call = putPdfInRequestToDocValidateBeforeCall(outPath, addReturnToLineEnd, format, imageResolutionX, imageResolutionY, maxDistanceBetweenTextLines, mode, recognizeBullets, relativeHorizontalProximity, storage, password, file, null, null);
         Type localVarReturnType = new TypeToken<AsposeResponse>(){}.getType();
         return apiClient.execute(call, localVarReturnType);
@@ -52397,7 +52392,7 @@ public class PdfApi {
      * @return The request call
      * @throws ApiException If fail to process the API call, e.g. serializing the request body object
      */
-    public com.squareup.okhttp.Call putPdfInRequestToDocAsync(String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String storage, String password, File file, final ApiCallback<AsposeResponse> callback) throws ApiException {
+    public com.squareup.okhttp.Call putPdfInRequestToDocAsync(String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String storage, String password, File file, final ApiCallback<AsposeResponse> callback) throws ApiException {
 
         ProgressResponseBody.ProgressListener progressListener = null;
         ProgressRequestBody.ProgressRequestListener progressRequestListener = null;
@@ -53704,7 +53699,7 @@ public class PdfApi {
      * @return Call to execute
      * @throws ApiException If fail to serialize the request body object
      */
-    public com.squareup.okhttp.Call putPdfInRequestToTiffCall(String outPath, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String storage, File file, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    public com.squareup.okhttp.Call putPdfInRequestToTiffCall(String outPath, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String storage, File file, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         Object localVarPostBody = file;
 
         // create path and map variables
@@ -53780,7 +53775,7 @@ public class PdfApi {
     }
 
     @SuppressWarnings("rawtypes")
-    private com.squareup.okhttp.Call putPdfInRequestToTiffValidateBeforeCall(String outPath, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String storage, File file, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    private com.squareup.okhttp.Call putPdfInRequestToTiffValidateBeforeCall(String outPath, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String storage, File file, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         
         // verify the required parameter 'outPath' is set
         if (outPath == null) {
@@ -53817,7 +53812,7 @@ public class PdfApi {
      * @return AsposeResponse
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public AsposeResponse putPdfInRequestToTiff(String outPath, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String storage, File file) throws ApiException {
+    public AsposeResponse putPdfInRequestToTiff(String outPath, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String storage, File file) throws ApiException {
         try
         {
             ApiResponse<AsposeResponse> resp = putPdfInRequestToTiffWithHttpInfo(outPath, brightness, compression, colorDepth, leftMargin, rightMargin, topMargin, bottomMargin, orientation, skipBlankPages, width, height, xResolution, yResolution, pageIndex, pageCount, storage, file);
@@ -53859,7 +53854,7 @@ public class PdfApi {
      * @return ApiResponse&lt;AsposeResponse&gt;
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public ApiResponse<AsposeResponse> putPdfInRequestToTiffWithHttpInfo(String outPath, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String storage, File file) throws ApiException {
+    public ApiResponse<AsposeResponse> putPdfInRequestToTiffWithHttpInfo(String outPath, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String storage, File file) throws ApiException {
         com.squareup.okhttp.Call call = putPdfInRequestToTiffValidateBeforeCall(outPath, brightness, compression, colorDepth, leftMargin, rightMargin, topMargin, bottomMargin, orientation, skipBlankPages, width, height, xResolution, yResolution, pageIndex, pageCount, storage, file, null, null);
         Type localVarReturnType = new TypeToken<AsposeResponse>(){}.getType();
         return apiClient.execute(call, localVarReturnType);
@@ -53890,7 +53885,7 @@ public class PdfApi {
      * @return The request call
      * @throws ApiException If fail to process the API call, e.g. serializing the request body object
      */
-    public com.squareup.okhttp.Call putPdfInRequestToTiffAsync(String outPath, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String storage, File file, final ApiCallback<AsposeResponse> callback) throws ApiException {
+    public com.squareup.okhttp.Call putPdfInRequestToTiffAsync(String outPath, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String storage, File file, final ApiCallback<AsposeResponse> callback) throws ApiException {
 
         ProgressResponseBody.ProgressListener progressListener = null;
         ProgressRequestBody.ProgressRequestListener progressRequestListener = null;
@@ -54743,7 +54738,7 @@ public class PdfApi {
      * @return Call to execute
      * @throws ApiException If fail to serialize the request body object
      */
-    public com.squareup.okhttp.Call putPdfInStorageToDocCall(String name, String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String folder, String storage, String password, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    public com.squareup.okhttp.Call putPdfInStorageToDocCall(String name, String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String folder, String storage, String password, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         Object localVarPostBody = null;
 
         // create path and map variables
@@ -54810,7 +54805,7 @@ public class PdfApi {
     }
 
     @SuppressWarnings("rawtypes")
-    private com.squareup.okhttp.Call putPdfInStorageToDocValidateBeforeCall(String name, String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String folder, String storage, String password, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    private com.squareup.okhttp.Call putPdfInStorageToDocValidateBeforeCall(String name, String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String folder, String storage, String password, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         
         // verify the required parameter 'name' is set
         if (name == null) {
@@ -54847,7 +54842,7 @@ public class PdfApi {
      * @return AsposeResponse
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public AsposeResponse putPdfInStorageToDoc(String name, String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String folder, String storage, String password) throws ApiException {
+    public AsposeResponse putPdfInStorageToDoc(String name, String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String folder, String storage, String password) throws ApiException {
         try
         {
             ApiResponse<AsposeResponse> resp = putPdfInStorageToDocWithHttpInfo(name, outPath, addReturnToLineEnd, format, imageResolutionX, imageResolutionY, maxDistanceBetweenTextLines, mode, recognizeBullets, relativeHorizontalProximity, folder, storage, password);
@@ -54884,7 +54879,7 @@ public class PdfApi {
      * @return ApiResponse&lt;AsposeResponse&gt;
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public ApiResponse<AsposeResponse> putPdfInStorageToDocWithHttpInfo(String name, String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String folder, String storage, String password) throws ApiException {
+    public ApiResponse<AsposeResponse> putPdfInStorageToDocWithHttpInfo(String name, String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String folder, String storage, String password) throws ApiException {
         com.squareup.okhttp.Call call = putPdfInStorageToDocValidateBeforeCall(name, outPath, addReturnToLineEnd, format, imageResolutionX, imageResolutionY, maxDistanceBetweenTextLines, mode, recognizeBullets, relativeHorizontalProximity, folder, storage, password, null, null);
         Type localVarReturnType = new TypeToken<AsposeResponse>(){}.getType();
         return apiClient.execute(call, localVarReturnType);
@@ -54910,7 +54905,7 @@ public class PdfApi {
      * @return The request call
      * @throws ApiException If fail to process the API call, e.g. serializing the request body object
      */
-    public com.squareup.okhttp.Call putPdfInStorageToDocAsync(String name, String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Double maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Double relativeHorizontalProximity, String folder, String storage, String password, final ApiCallback<AsposeResponse> callback) throws ApiException {
+    public com.squareup.okhttp.Call putPdfInStorageToDocAsync(String name, String outPath, Boolean addReturnToLineEnd, String format, Integer imageResolutionX, Integer imageResolutionY, Float maxDistanceBetweenTextLines, String mode, Boolean recognizeBullets, Float relativeHorizontalProximity, String folder, String storage, String password, final ApiCallback<AsposeResponse> callback) throws ApiException {
 
         ProgressResponseBody.ProgressListener progressListener = null;
         ProgressRequestBody.ProgressRequestListener progressRequestListener = null;
@@ -56302,7 +56297,7 @@ public class PdfApi {
      * @return Call to execute
      * @throws ApiException If fail to serialize the request body object
      */
-    public com.squareup.okhttp.Call putPdfInStorageToTiffCall(String name, String outPath, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    public com.squareup.okhttp.Call putPdfInStorageToTiffCall(String name, String outPath, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         Object localVarPostBody = null;
 
         // create path and map variables
@@ -56381,7 +56376,7 @@ public class PdfApi {
     }
 
     @SuppressWarnings("rawtypes")
-    private com.squareup.okhttp.Call putPdfInStorageToTiffValidateBeforeCall(String name, String outPath, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
+    private com.squareup.okhttp.Call putPdfInStorageToTiffValidateBeforeCall(String name, String outPath, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage, final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
         
         // verify the required parameter 'name' is set
         if (name == null) {
@@ -56424,7 +56419,7 @@ public class PdfApi {
      * @return AsposeResponse
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public AsposeResponse putPdfInStorageToTiff(String name, String outPath, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage) throws ApiException {
+    public AsposeResponse putPdfInStorageToTiff(String name, String outPath, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage) throws ApiException {
         try
         {
             ApiResponse<AsposeResponse> resp = putPdfInStorageToTiffWithHttpInfo(name, outPath, brightness, compression, colorDepth, leftMargin, rightMargin, topMargin, bottomMargin, orientation, skipBlankPages, width, height, xResolution, yResolution, pageIndex, pageCount, folder, storage);
@@ -56467,7 +56462,7 @@ public class PdfApi {
      * @return ApiResponse&lt;AsposeResponse&gt;
      * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
      */
-    public ApiResponse<AsposeResponse> putPdfInStorageToTiffWithHttpInfo(String name, String outPath, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage) throws ApiException {
+    public ApiResponse<AsposeResponse> putPdfInStorageToTiffWithHttpInfo(String name, String outPath, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage) throws ApiException {
         com.squareup.okhttp.Call call = putPdfInStorageToTiffValidateBeforeCall(name, outPath, brightness, compression, colorDepth, leftMargin, rightMargin, topMargin, bottomMargin, orientation, skipBlankPages, width, height, xResolution, yResolution, pageIndex, pageCount, folder, storage, null, null);
         Type localVarReturnType = new TypeToken<AsposeResponse>(){}.getType();
         return apiClient.execute(call, localVarReturnType);
@@ -56499,7 +56494,7 @@ public class PdfApi {
      * @return The request call
      * @throws ApiException If fail to process the API call, e.g. serializing the request body object
      */
-    public com.squareup.okhttp.Call putPdfInStorageToTiffAsync(String name, String outPath, Double brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage, final ApiCallback<AsposeResponse> callback) throws ApiException {
+    public com.squareup.okhttp.Call putPdfInStorageToTiffAsync(String name, String outPath, Float brightness, String compression, String colorDepth, Integer leftMargin, Integer rightMargin, Integer topMargin, Integer bottomMargin, String orientation, Boolean skipBlankPages, Integer width, Integer height, Integer xResolution, Integer yResolution, Integer pageIndex, Integer pageCount, String folder, String storage, final ApiCallback<AsposeResponse> callback) throws ApiException {
 
         ProgressResponseBody.ProgressListener progressListener = null;
         ProgressRequestBody.ProgressRequestListener progressRequestListener = null;
@@ -57958,7 +57953,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PS file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert PS file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.ps) (required)
@@ -57986,7 +57981,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PS file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert PS file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.ps) (required)
@@ -58002,7 +57997,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert PS file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert PS file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.ps) (required)
@@ -60823,7 +60818,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert SVG file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert SVG file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.svg) (required)
@@ -60859,7 +60854,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert SVG file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert SVG file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.svg) (required)
@@ -60883,7 +60878,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert SVG file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert SVG file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.svg) (required)
@@ -61173,7 +61168,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert TeX file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert TeX file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.tex) (required)
@@ -61201,7 +61196,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert TeX file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert TeX file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.tex) (required)
@@ -61217,7 +61212,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert TeX file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert TeX file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.tex) (required)
@@ -62178,7 +62173,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert web page to PDF format and upload resulting file to storage. 
+     * Convert web page to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param url Source url (required)
@@ -62213,7 +62208,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert web page to PDF format and upload resulting file to storage. 
+     * Convert web page to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param url Source url (required)
@@ -62236,7 +62231,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert web page to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert web page to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param url Source url (required)
@@ -62667,7 +62662,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XML file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert XML file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xml) (required)
@@ -62696,7 +62691,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XML file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert XML file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xml) (required)
@@ -62713,7 +62708,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XML file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert XML file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xml) (required)
@@ -62829,7 +62824,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XPS file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert XPS file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
@@ -62857,7 +62852,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XPS file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert XPS file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
@@ -62873,7 +62868,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XPS file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert XPS file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xps) (required)
@@ -62988,7 +62983,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XslFo file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert XslFo file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xpsfo) (required)
@@ -63016,7 +63011,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XslFo file (located on storage) to PDF format and upload resulting file to storage. 
+     * Convert XslFo file (located on storage) to PDF format and upload resulting file to storage.
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xpsfo) (required)
@@ -63032,7 +63027,7 @@ public class PdfApi {
     }
 
     /**
-     * Convert XslFo file (located on storage) to PDF format and upload resulting file to storage.  (asynchronously)
+     * Convert XslFo file (located on storage) to PDF format and upload resulting file to storage. (asynchronously)
      * 
      * @param name The document name. (required)
      * @param srcPath Full source filename (ex. /folder1/folder2/template.xpsfo) (required)

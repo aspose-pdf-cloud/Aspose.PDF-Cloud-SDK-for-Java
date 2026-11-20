@@ -63,10 +63,10 @@ public class Table extends LinkElement {
   private VerticalAlignment verticalAlignment = null;
 
   @SerializedName("Top")
-  private Double top = null;
+  private Float top = null;
 
   @SerializedName("Left")
-  private Double left = null;
+  private Float left = null;
 
   @SerializedName("DefaultCellTextState")
   private TextState defaultCellTextState = null;
@@ -176,7 +176,7 @@ public class Table extends LinkElement {
     this.verticalAlignment = verticalAlignment;
   }
 
-  public Table top(Double top) {
+  public Table top(Float top) {
     this.top = top;
     return this;
   }
@@ -186,15 +186,15 @@ public class Table extends LinkElement {
    * @return top
   **/
   @ApiModelProperty(value = "Gets or sets the table top coordinate.")
-  public Double getTop() {
+  public Float getTop() {
     return top;
   }
 
-  public void setTop(Double top) {
+  public void setTop(Float top) {
     this.top = top;
   }
 
-  public Table left(Double left) {
+  public Table left(Float left) {
     this.left = left;
     return this;
   }
@@ -204,11 +204,11 @@ public class Table extends LinkElement {
    * @return left
   **/
   @ApiModelProperty(value = "Gets or sets the table left coordinate.")
-  public Double getLeft() {
+  public Float getLeft() {
     return left;
   }
 
-  public void setLeft(Double left) {
+  public void setLeft(Float left) {
     this.left = left;
   }
 
